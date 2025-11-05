@@ -1,0 +1,42 @@
+      table {
+         border-collapse: collapse;
+         width: 300px;
+         height: 200px;
+         margin: 30px;
+      }
+
+      .table {
+         display: flex;
+         justify-content: center;
+      }
+
+      .container__table {
+         display: flex;
+         justify-content: center;
+      }
+
+      .table-3 {
+         width: 500px;
+      }
+
+      .linha {
+         background-color: #01573a83;
+      }
+
+      th {
+         border: solid black 1px;
+         width: 75px;
+         text-align: center;
+         padding: 5px;
+      }
+
+      td {
+         border: solid black 1px;
+         width: 75px;
+         text-align: center;
+         padding: 5px;
+      }
+
+      tr {
+         background-color: #02a7706b;
+      }
